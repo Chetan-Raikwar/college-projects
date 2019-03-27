@@ -1,5 +1,8 @@
 On-Screen keyboard with enhanced features :D
 
+How to use :-
+	Double click on PassBoard.jar file and there you go. 
+	
 This is an on-screen keyboard built using JAVA for my college project. So what it does, is :-
 
 	1. You can type your text and transfer it directly to system clipboard, ready to be pasted.
